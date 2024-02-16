@@ -2,18 +2,12 @@
 
 We are a software development collective focusing on applications to replace high-priced proprietrary solutions used by organizations.
 
-## 2023-Present
+| Integration  Specialist  | Lead Developers | Lead Developers  
+|---	|---	|---	|  
+| Michael Baggett  | Yonathan Khoe   | Shivam Jadhav  
+|   	|   	| Hari Priya Vedala  
 
-### Lead Developers  
-Shivam Jadhav 
-
-Hari Priya Vedala 
-
-### Projects Manager: 
-Michael Baggett
-
-### Integration Lead: 
-Yonathan Khoe 
+* 2023-Present
 
 ## Current Projects
 
