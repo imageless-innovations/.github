@@ -2,7 +2,7 @@
 
 We are a software development collective focusing on applications to replace high-priced proprietrary solutions used by organizations.
 
-| Integration  Specialist  | Lead Developers | Lead Developers  
+| Projects Manager  | Integration  Specialist  | Lead Developers | 
 |---	|---	|---	|  
 | Michael Baggett  | Yonathan Khoe   | Shivam Jadhav  
 |   	|   	| Hari Priya Vedala  
